@@ -1,5 +1,5 @@
 # basicquizgame
-#This is my project as part of my internship at motioncut
+
 class Quiz:
     def __init__(self, questions):
         self.questions = questions
